@@ -16,7 +16,7 @@ class App extends React.Component
             <div class="row">
               <div class="span4">
                 <form method="POST" class="search_form">
-                  <input type="text" class="input-block-level search-query" Placeholder="eg. T-sirt" />
+                  <input type="text" class="input-block-level search-query" Placeholder="eg. T-shirt" />
                 </form>
               </div>
               <div class="span8">
