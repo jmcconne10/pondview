@@ -42,7 +42,7 @@ class App extends React.Component
                     <img src="assets/images/woodBG.jpg" alt="" />
                   </li>
                   <li>
-                    <img src="assets/images/woodBG2.jpeg" alt="" />
+                    <img src="assets/images/bigSwing.jpg" alt="" />
                     <div class="intro">
                       <h1>Mid season sale</h1>
                       <p><span>Up to 50% Off</span></p>
