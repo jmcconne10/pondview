@@ -53,7 +53,7 @@ class App extends React.Component
               </div>			
             </section>
             <section class="header_text">
-              Website coming
+              Website coming soon
             </section>
           </div>
       
