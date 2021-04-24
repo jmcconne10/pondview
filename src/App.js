@@ -72,7 +72,7 @@ class App extends React.Component
                   <div class="row">
                     <div class="span12">
                       <h4 class="title">
-                        <span class="pull-left"><span class="text"><span class="line">Feature <strong>Products</strong></span></span></span>
+                        <span class="pull-left"><span class="text"><span class="line">Featured <strong>Products</strong></span></span></span>
                         <span class="pull-right">
                           <a class="left button" href="#myCarousel" data-slide="prev"></a><a class="right button" href="#myCarousel" data-slide="next"></a>
                         </span>
@@ -84,7 +84,7 @@ class App extends React.Component
                               <li class="span3">
                                 <div class="product-box">
                                   <span class="sale_tag"></span>
-                                  <p><a href="#"><img src="assets/images/ladies/1.jpg" alt="" /></a></p>
+                                  <p><a href="#"><img src="assets/images/items/christmas.jpg" alt="" /></a></p>
                                   <a href="#" class="title">Ut wisi enim ad</a><br/>
                                   <a href="#" class="category">Commodo consequat</a>
                                   <p class="price">$17.25</p>
