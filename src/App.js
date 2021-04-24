@@ -53,7 +53,7 @@ class App extends React.Component
               </div>			
             </section>
             <section class="header_text">
-              We stand for top quality templates. Our genuine developers always optimized bootstrap commercial templates. 
+              This is a surprise number 3! 
               <br/>Don't miss to use our cheap abd best bootstrap templates.
             </section>
             <section class="main-content">
