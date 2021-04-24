@@ -16,31 +16,21 @@ class App extends React.Component
             <div class="row">
               <div class="span4">
                 <form method="POST" class="search_form">
-                  <input type="text" class="input-block-level search-query" Placeholder="eg. T-shirt" />
+                  <input type="text" class="input-block-level search-query" Placeholder="eg. awesome table" />
                 </form>
               </div>
-              <div class="span8">
-                <div class="account pull-right">
-                  <ul class="user-menu">				
-                    <li><a href="#">My Account</a></li>
-                    <li><a href="#">Your Cart</a></li>
-                    <li><a href="#">Checkout</a></li>					
-                    <li><a href="#">Login</a></li>		
-                  </ul>
-                </div>
-              </div>
+
             </div>
           </div>
           <div id="wrapper" class="container">
             <section class="navbar main-menu">
               <div class="navbar-inner main-menu">				
-                <a href="#" class="logo pull-left">TheRichShop</a>
+               
                 <nav id="menu" class="pull-right">
                   <ul>
-                    <li><a href="#">Woman</a>	</li>										
-                    <li><a href="#">Hangbag</a></li>
-                    <li><a href="#">Best Seller</a></li>
-                    <li><a href="#">Top Seller</a></li>
+                    <li><a href="#">Indoor</a>	</li>										
+                    <li><a href="#">Outdoor</a></li>
+                    <li><a href="#">Best Sellers</a></li>
                   </ul>
                 </nav>
               </div>
@@ -174,7 +164,7 @@ class App extends React.Component
                               </li>
                               <li class="span3">
                                 <div class="product-box">
-                                  <p><a href="#"><img src="assets/images/cloth/bootstrap-women-ware6.jpg" alt="" /></a></p>
+                                  <p><a href="#"><img src="assets/images/items/table.jpg" alt="" /></a></p>
                                   <a href="#" class="title">Know exactly turned</a><br/>
                                   <a href="#" class="category">Quis nostrud</a>
                                   <p class="price">$25.30</p>
@@ -182,7 +172,7 @@ class App extends React.Component
                               </li>
                               <li class="span3">
                                 <div class="product-box">
-                                  <p><a href="#"><img src="assets/images/cloth/bootstrap-women-ware5.jpg" alt="" /></a></p>
+                                  <p><a href="#"><img src="assets/images/items/swing.jpg" alt="" /></a></p>
                                   <a href="#" class="title">You think fast</a><br/>
                                   <a href="#" class="category">World once</a>
                                   <p class="price">$25.60</p>
@@ -194,36 +184,13 @@ class App extends React.Component
                             <ul class="thumbnails">
                               <li class="span3">
                                 <div class="product-box">
-                                  <p><a href="#"><img src="assets/images/cloth/bootstrap-women-ware4.jpg" alt="" /></a></p>
+                                  <p><a href="#"><img src="assets/images/items/stoveCover.jpg" alt="" /></a></p>
                                   <a href="#" class="title">Know exactly</a><br/>
                                   <a href="#" class="category">Quis nostrud</a>
                                   <p class="price">$45.50</p>
                                 </div>
                               </li>
-                              <li class="span3">
-                                <div class="product-box">
-                                  <p><a href="#"><img src="assets/images/cloth/bootstrap-women-ware3.jpg" alt="" /></a></p>
-                                  <a href="#" class="title">Ut wisi enim ad</a><br/>
-                                  <a href="#" class="category">Commodo consequat</a>
-                                  <p class="price">$33.50</p>
-                                </div>
-                              </li>
-                              <li class="span3">
-                                <div class="product-box">
-                                  <p><a href="#"><img src="assets/images/cloth/bootstrap-women-ware2.jpg" alt="" /></a></p>
-                                  <a href="#" class="title">You think water</a><br/>
-                                  <a href="#" class="category">World once</a>
-                                  <p class="price">$45.30</p>
-                                </div>
-                              </li>
-                              <li class="span3">
-                                <div class="product-box">
-                                  <p><a href="#"><img src="assets/images/cloth/bootstrap-women-ware1.jpg" alt="" /></a></p>
-                                  <a href="#" class="title">Quis nostrud exerci</a><br/>
-                                  <a href="#" class="category">Quis nostrud</a>
-                                  <p class="price">$25.20</p>
-                                </div>
-                              </li>																																	
+                             																															
                             </ul>
                           </div>
                         </div>							
@@ -244,7 +211,7 @@ class App extends React.Component
                       <div class="service">
                         <div class="customize">			
                           <img src="assets/images/feature_img_1.png" alt="" />
-                          <h4>FREE <strong>SHIPPING</strong></h4>
+                          <h4>AFFORDABLE <strong>PRICES</strong></h4>
                           <p>Lorem Ipsum is simply dummy text of the printing and printing industry unknown printer.</p>
                         </div>
                       </div>
@@ -253,7 +220,7 @@ class App extends React.Component
                       <div class="service">
                         <div class="support">	
                           <img src="assets/images/feature_img_3.png" alt="" />
-                          <h4>24/7 LIVE <strong>SUPPORT</strong></h4>
+                          <h4>PERSONALIZED <strong>GIFTS</strong></h4>
                           <p>Lorem Ipsum is simply dummy text of the printing and printing industry unknown printer.</p>
                         </div>
                       </div>
@@ -263,26 +230,21 @@ class App extends React.Component
               </div>
             </section>
             <section class="our_client">
-              <h4 class="title"><span class="text">Manufactures</span></h4>
+              <h4 class="title"><span class="text">Wood</span></h4>
               <div class="row">					
                 <div class="span2">
-                  <a href="#"><img alt="" src="assets/images/clients/14.png" /></a>
+                  <a href="#">Pine</a>
                 </div>
                 <div class="span2">
-                  <a href="#"><img alt="" src="assets/images/clients/35.png" /></a>
+                  <a href="#">Treated Pine</a>
                 </div>
                 <div class="span2">
-                  <a href="#"><img alt="" src="assets/images/clients/1.png" /></a>
+                  <a href="#">Oak</a>
                 </div>
                 <div class="span2">
-                  <a href="#"><img alt="" src="assets/images/clients/2.png" /></a>
+                  <a href="#">Cedar</a>
                 </div>
-                <div class="span2">
-                  <a href="#"><img alt="" src="assets/images/clients/3.png" /></a>
-                </div>
-                <div class="span2">
-                  <a href="#"><img alt="" src="assets/images/clients/4.png" /></a>
-                </div>
+
               </div>
             </section>
             <section id="footer-bar">
