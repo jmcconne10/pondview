@@ -10,7 +10,7 @@ phases:
       - npm run build
   post_build:
     commands:
-      - echo testing variables $build_deploy
+      - echo testing variables $(dest_loc)
       - aws s3 cp --recursive --acl public-read ./build s3://pondviewwoodworks.com/ 
  #     - aws s3 cp --acl public-read --cache-control="max-age=0, no-cache, no-store, must-revalidate" ./build/service-worker.js s3://pondviewwoodworks.com/
       - aws s3 cp --acl public-read --cache-control="max-age=0, no-cache, no-store, must-revalidate" ./build/index.html s3://pondviewwoodworks.com/
