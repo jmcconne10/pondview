@@ -3,6 +3,7 @@ phases:
   pre_build:
     commands:
       - echo testing variables $DEST_LOC
+      - echo region $AWS_DEFAULT_REGION
       - echo Installing source NPM dependencies...
       - npm install
   build:
