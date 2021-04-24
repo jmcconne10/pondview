@@ -49,10 +49,10 @@ class App extends React.Component
               <div class="flexslider">
                 <ul class="slides">
                   <li>
-                    <img src="assets/images/carousel/banner-1.jpg" alt="" />
+                    <img src="assets/images/woodBG.jpg" alt="" />
                   </li>
                   <li>
-                    <img src="assets/images/carousel/banner-2.jpg" alt="" />
+                    <img src="assets/images/woodBG2.jpeg" alt="" />
                     <div class="intro">
                       <h1>Mid season sale</h1>
                       <p><span>Up to 50% Off</span></p>
@@ -93,7 +93,7 @@ class App extends React.Component
                               <li class="span3">
                                 <div class="product-box">
                                   <span class="sale_tag"></span>
-                                  <p><a href="#"><img src="assets/images/ladies/2.jpg" alt="" /></a></p>
+                                  <p><a href="#"><img src="assets/images/items/swing.jpg" alt="" /></a></p>
                                   <a href="#" class="title">Quis nostrud exerci tation</a><br/>
                                   <a href="#" class="category">Quis nostrud</a>
                                   <p class="price">$32.50</p>
@@ -101,7 +101,7 @@ class App extends React.Component
                               </li>
                               <li class="span3">
                                 <div class="product-box">
-                                  <p><a href="#"><img src="assets/images/ladies/3.jpg" alt="" /></a></p>
+                                  <p><a href="#"><img src="assets/images/items/table.jpg" alt="" /></a></p>
                                   <a href="#" class="title">Know exactly turned</a><br/>
                                   <a href="#" class="category">Quis nostrud</a>
                                   <p class="price">$14.20</p>
@@ -109,7 +109,7 @@ class App extends React.Component
                               </li>
                               <li class="span3">
                                 <div class="product-box">
-                                  <p><a href="#"><img src="assets/images/ladies/4.jpg" alt="" /></a></p>
+                                  <p><a href="#"><img src="assets/images/items/tubTray.jpg" alt="" /></a></p>
                                   <a href="#" class="title">You think fast</a><br/>
                                   <a href="#" class="category">World once</a>
                                   <p class="price">$31.45</p>
@@ -121,31 +121,16 @@ class App extends React.Component
                             <ul class="thumbnails">
                               <li class="span3">
                                 <div class="product-box">
-                                  <p><a href="#"><img src="assets/images/ladies/5.jpg" alt="" /></a></p>
+                                  <p><a href="#"><img src="assets/images/items/laundry.jpg" alt="" /></a></p>
                                   <a href="#" class="title">Know exactly</a><br/>
                                   <a href="#" class="category">Quis nostrud</a>
                                   <p class="price">$22.30</p>
                                 </div>
                               </li>
+
                               <li class="span3">
                                 <div class="product-box">
-                                  <p><a href="#"><img src="assets/images/ladies/6.jpg" alt="" /></a></p>
-                                  <a href="#" class="title">Ut wisi enim ad</a><br/>
-                                  <a href="#" class="category">Commodo consequat</a>
-                                  <p class="price">$40.25</p>
-                                </div>
-                              </li>
-                              <li class="span3">
-                                <div class="product-box">
-                                  <p><a href="#"><img src="assets/images/ladies/7.jpg" alt="" /></a></p>
-                                  <a href="#" class="title">You think water</a><br/>
-                                  <a href="#" class="category">World once</a>
-                                  <p class="price">$10.45</p>
-                                </div>
-                              </li>
-                              <li class="span3">
-                                <div class="product-box">
-                                  <p><a href="#"><img src="assets/images/ladies/8.jpg" alt="" /></a></p>
+                                  <p><a href="#"><img src="assets/images/items/stoveCover.jpg" alt="" /></a></p>
                                   <a href="#" class="title">Quis nostrud exerci</a><br/>
                                   <a href="#" class="category">Quis nostrud</a>
                                   <p class="price">$35.50</p>
@@ -173,7 +158,7 @@ class App extends React.Component
                               <li class="span3">
                                 <div class="product-box">
                                   <span class="sale_tag"></span>
-                                  <p><a href="#"><img src="assets/images/cloth/bootstrap-women-ware2.jpg" alt="" /></a></p>
+                                  <p><a href="#"><img src="assets/images/items/Yardzee.jpg" alt="" /></a></p>
                                   <a href="#" class="title">Ut wisi enim ad</a><br/>
                                   <a href="#" class="category">Commodo consequat</a>
                                   <p class="price">$25.50</p>
@@ -181,7 +166,7 @@ class App extends React.Component
                               </li>
                               <li class="span3">
                                 <div class="product-box">
-                                  <p><a href="#"><img src="assets/images/cloth/bootstrap-women-ware1.jpg" alt="" /></a></p>
+                                  <p><a href="#"><img src="assets/images/items/tubTray.jpg" alt="" /></a></p>
                                   <a href="#" class="title">Quis nostrud exerci tation</a><br/>
                                   <a href="#" class="category">Quis nostrud</a>
                                   <p class="price">$17.55</p>
