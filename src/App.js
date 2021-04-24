@@ -53,7 +53,7 @@ class App extends React.Component
               </div>			
             </section>
             <section class="header_text">
-              This is a surprise number 2. 
+              This is a surprise number 3! 
               <br/>Don't miss to use our cheap abd best bootstrap templates.
             </section>
             <section class="main-content">
