@@ -71,7 +71,7 @@ class App extends React.Component
                         <div class="carousel-inner">
                           <div class="active item">
                             <ul class="thumbnails">												
-                              <li class="span3">
+                              <li class="span5">
                                 <div class="product-box">
                                   <span class="sale_tag"></span>
                                   <p><a href="#"><img src="assets/images/items/christmas.jpg" alt="" /></a></p>
@@ -80,24 +80,7 @@ class App extends React.Component
                                   <p class="price">$17.25</p>
                                 </div>
                               </li>
-                              <li class="span3">
-                                <div class="product-box">
-                                  <span class="sale_tag"></span>
-                                  <p><a href="#"><img src="assets/images/items/swing.jpg" alt="" /></a></p>
-                                  <a href="#" class="title">Quis nostrud exerci tation</a><br/>
-                                  <a href="#" class="category">Quis nostrud</a>
-                                  <p class="price">$32.50</p>
-                                </div>
-                              </li>
-                              <li class="span3">
-                                <div class="product-box">
-                                  <p><a href="#"><img src="assets/images/items/table.jpg" alt="" /></a></p>
-                                  <a href="#" class="title">Know exactly turned</a><br/>
-                                  <a href="#" class="category">Quis nostrud</a>
-                                  <p class="price">$14.20</p>
-                                </div>
-                              </li>
-                              <li class="span3">
+                              <li class="span5">
                                 <div class="product-box">
                                   <p><a href="#"><img src="assets/images/items/tubTray.jpg" alt="" /></a></p>
                                   <a href="#" class="title">You think fast</a><br/>
