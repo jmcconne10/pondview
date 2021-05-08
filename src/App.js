@@ -16,7 +16,7 @@ class App extends React.Component
             <div class="row">
               <div class="span4">
                 <form method="POST" class="search_form">
-                  <input type="text" class="input-block-level search-query" Placeholder="eg. awesome table" />
+                  <input type="text" class="input-block-level search-query" Placeholder="eg.table" />
                 </form>
               </div>
 
@@ -53,8 +53,8 @@ class App extends React.Component
               </div>			
             </section>
             <section class="header_text">
-              This is a surprise number 4! 
-              <br/>Don't miss to use our cheap abd best bootstrap templates.
+              Happy Mother's Day! 
+              <br/>We (mostly dad) mad a website for you!
             </section>
             <section class="main-content">
               <div class="row">
@@ -75,16 +75,16 @@ class App extends React.Component
                                 <div class="product-box">
                                   <span class="sale_tag"></span>
                                   <p><a href="#"><img src="assets/images/items/christmas.jpg" alt="" /></a></p>
-                                  <a href="#" class="title">Ut wisi enim ad</a><br/>
-                                  <a href="#" class="category">Commodo consequat</a>
+                                  <a href="#" class="title">Wooden Nativity</a><br/>
+                                  <a href="#" class="category">Seasonal Project</a>
                                   <p class="price">$17.25</p>
                                 </div>
                               </li>
                               <li class="span5">
                                 <div class="product-box">
                                   <p><a href="#"><img src="assets/images/items/tubTray.jpg" alt="" /></a></p>
-                                  <a href="#" class="title">You think fast</a><br/>
-                                  <a href="#" class="category">World once</a>
+                                  <a href="#" class="title">Name?</a><br/>
+                                  <a href="#" class="category">Item Category</a>
                                   <p class="price">$31.45</p>
                                 </div>
                               </li>
@@ -95,8 +95,8 @@ class App extends React.Component
                               <li class="span3">
                                 <div class="product-box">
                                   <p><a href="#"><img src="assets/images/items/laundry.jpg" alt="" /></a></p>
-                                  <a href="#" class="title">Know exactly</a><br/>
-                                  <a href="#" class="category">Quis nostrud</a>
+                                  <a href="#" class="title">Coffee Table</a><br/>
+                                  <a href="#" class="category">Item Category</a>
                                   <p class="price">$22.30</p>
                                 </div>
                               </li>
@@ -104,8 +104,8 @@ class App extends React.Component
                               <li class="span3">
                                 <div class="product-box">
                                   <p><a href="#"><img src="assets/images/items/stoveCover.jpg" alt="" /></a></p>
-                                  <a href="#" class="title">Quis nostrud exerci</a><br/>
-                                  <a href="#" class="category">Quis nostrud</a>
+                                  <a href="#" class="title">Name?</a><br/>
+                                  <a href="#" class="category">Item Category</a>
                                   <p class="price">$35.50</p>
                                 </div>
                               </li>																																	
@@ -132,32 +132,32 @@ class App extends React.Component
                                 <div class="product-box">
                                   <span class="sale_tag"></span>
                                   <p><a href="#"><img src="assets/images/items/Yardzee.jpg" alt="" /></a></p>
-                                  <a href="#" class="title">Ut wisi enim ad</a><br/>
-                                  <a href="#" class="category">Commodo consequat</a>
+                                  <a href="#" class="title">Wooden Dice</a><br/>
+                                  <a href="#" class="category">Item Categoty</a>
                                   <p class="price">$25.50</p>
                                 </div>
                               </li>
                               <li class="span3">
                                 <div class="product-box">
                                   <p><a href="#"><img src="assets/images/items/tubTray.jpg" alt="" /></a></p>
-                                  <a href="#" class="title">Quis nostrud exerci tation</a><br/>
-                                  <a href="#" class="category">Quis nostrud</a>
+                                  <a href="#" class="title">Name?</a><br/>
+                                  <a href="#" class="category">Item Category</a>
                                   <p class="price">$17.55</p>
                                 </div>
                               </li>
                               <li class="span3">
                                 <div class="product-box">
                                   <p><a href="#"><img src="assets/images/items/table.jpg" alt="" /></a></p>
-                                  <a href="#" class="title">Know exactly turned</a><br/>
-                                  <a href="#" class="category">Quis nostrud</a>
+                                  <a href="#" class="title">Coffee Table</a><br/>
+                                  <a href="#" class="category">Item Category</a>
                                   <p class="price">$25.30</p>
                                 </div>
                               </li>
                               <li class="span3">
                                 <div class="product-box">
                                   <p><a href="#"><img src="assets/images/items/swing.jpg" alt="" /></a></p>
-                                  <a href="#" class="title">You think fast</a><br/>
-                                  <a href="#" class="category">World once</a>
+                                  <a href="#" class="title">Hanging Chair</a><br/>
+                                  <a href="#" class="category">Item Category</a>
                                   <p class="price">$25.60</p>
                                 </div>
                               </li>
@@ -252,8 +252,8 @@ class App extends React.Component
                   </ul>
                 </div>
                 <div class="span5">
-                  <p class="logo">TheRichShop</p>
-                  <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. the  Lorem Ipsum has been the industry's standard dummy text ever since the you.</p>
+                  <p class="logo">Pondview Woodworks</p>
+                  <p>Pondview Woodworks has it's own website!</p>
                   <br/>
                   <span class="social_icons">
                     <a class="facebook" href="#">Facebook</a>
