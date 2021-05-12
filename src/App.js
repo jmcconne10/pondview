@@ -12,49 +12,26 @@ class App extends React.Component
    
     return (
       <div>
-          <div id="top-bar" class="container">
-            <div class="row">
-              <div class="span4">
-                <form method="POST" class="search_form">
-                  <input type="text" class="input-block-level search-query" Placeholder="eg.table" />
-                </form>
-              </div>
-
-            </div>
-          </div>
           <div id="wrapper" class="container">
             <section class="navbar main-menu">
               <div class="navbar-inner main-menu">				
-               
-                <nav id="menu" class="pull-right">
-                  <ul>
-                    <li><a href="#">Indoor</a>	</li>										
-                    <li><a href="#">Outdoor</a></li>
-                    <li><a href="#">Best Sellers</a></li>
-                  </ul>
-                </nav>
               </div>
             </section>
             <section  class="homepage-slider" id="home-slider">
               <div class="flexslider">
                 <ul class="slides">
                   <li>
-                    <img src="assets/images/woodBG.jpg" alt="" />
+                    <img src="assets/images/currentImages/pondviewBanner1.jpg" alt="" />
                   </li>
                   <li>
-                    <img src="assets/images/bigSwing.jpg" alt="" />
-                    <div class="intro">
-                      <h1>Mid season sale</h1>
-                      <p><span>Up to 50% Off</span></p>
-                      <p><span>On selected items online and in stores</span></p>
-                    </div>
+                    <img src="assets/images/currentImages/pondviewBanner2.jpg" alt="" />
                   </li>
                 </ul>
               </div>			
             </section>
             <section class="header_text">
-              Happy Mother's Day! 
-              <br/>We (mostly dad) mad a website for you!
+              Welcome to Pond View Wood Works. Check out the album below to see some of my latest work!
+              <br/>If you don't see what you're looking for, message me with your ideas for a free estimate.
             </section>
             <section class="main-content">
               <div class="row">
@@ -62,7 +39,7 @@ class App extends React.Component
                   <div class="row">
                     <div class="span12">
                       <h4 class="title">
-                        <span class="pull-left"><span class="text"><span class="line">Featured <strong>Products</strong></span></span></span>
+                        <span class="pull-left"><span class="text"><span class="line">Recent <strong>Projects</strong></span></span></span>
                         <span class="pull-right">
                           <a class="left button" href="#myCarousel" data-slide="prev"></a><a class="right button" href="#myCarousel" data-slide="next"></a>
                         </span>
